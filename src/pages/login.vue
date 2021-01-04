@@ -1,7 +1,8 @@
 <!--  -->
 <template>
-<div class=''>
-  <div class=''>Home</div>
+<div class='login'>
+  <span class="iconfont iconwode"></span>
+
 </div>
 </template>
 
@@ -21,4 +22,5 @@ export default {
 }
 </script>
 <style lang='less'>
+
 </style>
